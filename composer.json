@@ -1,0 +1,5 @@
+{
+    "name": "informational/rgbprimary",
+    "description": "Send in an rbg value and get back a slightly lighter color matching rbg value.  Please for automatic color layout when using an unknown color.",
+    "minimum-stability": "dev"
+}
