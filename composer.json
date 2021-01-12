@@ -2,7 +2,7 @@
     "name": "informational/rgbprimary",
     "description": "Send in an rgb value and get back a slightly lighter color matching rgb value.  Please for automatic color layout when using an unknown color.",
     "minimum-stability": "dev",
-    "keywords": ["color generator", "color", "colour", "generator", "laravel"],
+    "keywords": ["color generator", "color", "colour", "generator", "laravel", "rgb", "rgbprimary"],
     "license": "MIT",
     "require": {
         "laravel/framework": ">=5.0.0"
